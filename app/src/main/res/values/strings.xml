@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Task List</string>
+    <string name="hint_new_task">New task</string>
+    <string name="add">Add</string>
+    <string name="empty">No tasks yet. Add your first one below.</string>
+    <string name="delete_task">Delete task</string>
+    <string name="count">%1$d of %2$d done</string>
+</resources>
